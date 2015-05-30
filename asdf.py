@@ -24,3 +24,5 @@ loop = asyncio.get_event_loop()
 loop.run_until_complete(init(loop))
 loop.run_forever()
 print('asdfaf')
+
+print('2 commit')
